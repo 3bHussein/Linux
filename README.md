@@ -6,7 +6,7 @@
 >1. nano <filename>.<text/md/sh>
 >2. xed  <filename>.<text/md/sh>
 
-
+<br>
 >To Open the file Using : cat <Filename>
 >To Edit File :nano/edx : <filename>
 >To open Scripte incude file : ./<filename.txt/sh>
